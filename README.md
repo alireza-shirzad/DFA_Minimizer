@@ -6,10 +6,15 @@ No Dependency needed.
 
 ## Input format
 The input DFA should be formatted in the following way:
-#NumOfStates #SizeOfAlphabet
+<br>
+NumOfStates SizeOfAlphabet
+<br>
 {Final States}
+<br>
 {
+<br>
 Transitions
+<br>
 }
 
 ### For example
